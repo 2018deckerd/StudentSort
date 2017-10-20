@@ -1,2 +1,2 @@
-# StudentSort
-Assignment on sorting students by their last names
+# bubble-sort-students-starter
+Repo with starter code for bubble sorting objects lab.
